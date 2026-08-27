@@ -129,7 +129,7 @@ final_cols = [
 ]
 df = df[final_cols]
 
-# 10. Final data-quality checks
+# 10.. Final data-quality checks
 print("Final shape:", df.shape)
 print("Duplicates:", df.duplicated().sum())
 print("Missing values:")
