@@ -1,6 +1,8 @@
 # elevate-labs.-task-1
 
-#Task 1: Data Cleaning and Preprocessing
+#Task 1 
+
+Data Cleaning and Preprocessing
 
 #Objective
 
@@ -11,6 +13,7 @@
 Python (Pandas)
 
 #Dataset
+
 1.File: raw_sales_data.csv
 
 2.Dataset type: Retail Sales Data
