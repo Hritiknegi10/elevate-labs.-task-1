@@ -1,0 +1,127 @@
+﻿Order ID,Order Date,Customer Name ,Product,Category,Region,Quantity,Unit Price,Discount %,Cost / Unit,Payment Method,Sales Amount
+ORD-1001,2026-01-01,Aarav Sharma,Wireless Mouse,Electronics,North,1,₹799.00,0%,₹470.00,UPI,₹799.00
+ORD-1002,04/01/2026,Nisha Patel,bluetooth keyboard,electronics,west,4,1499.00,0.05,900,cash,5696.20
+ORD-1003,"Jan 07, 2026",Ishita Kapoor,USB-C HUB,ELECTRONICS,EAST,2, 1899 ,10,"₹1,150.00",CARD,"₹3,418.20"
+ORD-1004,10-01-2026,Meera Iyer, 24 Inch Monitor ,Electronics , South ,5,"₹8,999.00",15%,6500,UPI ,38245.75
+ORD-1005,2026-01-13,,Office Chair,Furniture,North,3,6499.00,0.00,"₹4,300.00",Cash,"₹19,497.00"
+ORD-1006,16/01/2026,Aditya Rao,study desk,furniture,west,1, 7999 ,5,5200,card,7599.05
+ORD-1007,"Jan 19, 2026",Arjun Nair,BOOKSHELF,FURNITURE,EAST,4,"₹4,999.00",10%,"₹3,150.00",UPI,"₹17,996.40"
+ORD-1008,22-01-2026,Kabir Singh, Notebook Pack ,Office Supplies , South ,2,299.00,0.15,135,Cash ,508.30
+ORD-1009,2026-01-25,Pooja Das,Gel Pen Set,Office Supplies,,5, 249 ,0,₹95.00,Card,"₹1,245.00"
+ORD-1010,28/01/2026,Sara Khan,a4 paper ream,office supplies,west,3,₹399.00,5%,230,upi,1137.15
+ORD-1011,"Jan 31, 2026",Ananya Joshi,LED DESK LAMP,HOME & OFFICE,EAST,0,1299.00,0.10,₹720.00,CASH,"₹1,169.10"
+ORD-1012,03-02-2026,Diya Verma, Water Bottle ,Home & Office , South ,4, 699 ,15,310,Card ,2376.60
+ORD-1013,2026-02-06,Karan Malhotra,Wireless Mouse,Electronics,North,2,₹799.00,0%,₹470.00,UPI,"₹1,598.00"
+ORD-1014,09/02/2026,Vivaan Mehta,bluetooth keyboard,electronics,west,5,1499.00,0.05,900,cash,7120.25
+ORD-1015,"Feb 12, 2026",Rohan Gupta,USB-C HUB,ELECTRONICS,EAST,3, 1899 ,10,"₹1,150.00",CARD,"₹5,127.30"
+ORD-1016,15-02-2026,Aarav Sharma, 24 Inch Monitor ,, South ,1,"₹8,999.00",15%,6500,UPI ,7649.15
+ORD-1017,2026-02-18,Nisha Patel,Office Chair,Furniture,North,4,6499.00,0.00,"₹4,300.00",Cash,"₹25,996.00"
+ORD-1018,21/02/2026,Ishita Kapoor,study desk,furniture,west,2, 7999 ,5,5200,card,15198.10
+ORD-1019,"Feb 24, 2026",Meera Iyer,BOOKSHELF,FURNITURE,EAST,5,"₹4,999.00",10%,"₹3,150.00",UPI,"₹22,495.50"
+ORD-1020,27-02-2026,Rahul Jain, Notebook Pack ,Office Supplies , South ,3,,0.15,135,Cash ,762.45
+ORD-1021,2026-03-02,Aditya Rao,Gel Pen Set,Office Supplies,North,1, 249 ,0,₹95.00,Card,₹249.00
+ORD-1022,05/03/2026,Arjun Nair,a4 paper ream,office supplies,west,4,₹399.00,5%,230,upi,1516.20
+ORD-1023,"Mar 08, 2026",Kabir Singh,,HOME & OFFICE,EAST,2,1299.00,0.10,₹720.00,CASH,"₹2,338.20"
+ORD-1024,11-03-2026,Pooja Das, Water Bottle ,Home & Office , South ,5, 699 ,15,310,Card ,2970.75
+ORD-1025,2026-03-14,Sara Khan,Wireless Mouse,Electronics,North,3,₹799.00,0%,₹470.00,UPI,
+ORD-1026,17/03/2026,Ananya Joshi,bluetooth keyboard,electronics,west,1,1499.00,0.05,900,cash,1424.05
+ORD-1027,"Mar 20, 2026",Diya Verma,USB-C HUB,ELECTRONICS,EAST,4, 1899 ,10,"₹1,150.00",CARD,"₹6,836.40"
+ORD-1028,23-03-2026,, 24 Inch Monitor ,Electronics , South ,2,"₹8,999.00",15%,6500,UPI ,15298.30
+ORD-1029,2026-03-26,Vivaan Mehta,Office Chair,Furniture,North,5,6499.00,0.00,"₹4,300.00",Cash,"₹32,495.00"
+ORD-1030,29/03/2026,Rohan Gupta,study desk,furniture,west,3, 7999 ,5,5200,card,22797.15
+ORD-1031,"Apr 01, 2026",Aarav Sharma,BOOKSHELF,FURNITURE,EAST,1,"₹4,999.00",10%,"₹3,150.00",UPI,"₹4,499.10"
+ORD-1032,04-04-2026,Nisha Patel, Notebook Pack ,Office Supplies , South ,4,299.00,0.15,,Cash ,1016.60
+ORD-1033,2026-04-07,Ishita Kapoor,Gel Pen Set,Office Supplies,North,2, 249 ,0,₹95.00,Card,₹498.00
+ORD-1034,10/04/2026,Meera Iyer,a4 paper ream,office supplies,west,5,₹399.00,5%,230,upi,1895.25
+ORD-1035,"Apr 13, 2026",Rahul Jain,LED DESK LAMP,HOME & OFFICE,,3,1299.00,0.10,₹720.00,CASH,"₹3,507.30"
+ORD-1036,16-04-2026,Aditya Rao, Water Bottle ,Home & Office , South ,1, 699 ,15,310,Card ,594.15
+ORD-1037,2026-04-19,Arjun Nair,Wireless Mouse,Electronics,North,4,₹799.00,0%,₹470.00,UPI,"₹3,196.00"
+ORD-1038,22/04/2026,Kabir Singh,bluetooth keyboard,electronics,west,2,1499.00,0.05,900,cash,2848.10
+ORD-1039,"Apr 25, 2026",Pooja Das,USB-C HUB,ELECTRONICS,EAST,5, 1899 ,10,"₹1,150.00",CARD,"₹8,545.50"
+ORD-1040,28-04-2026,Sara Khan, 24 Inch Monitor ,Electronics , South ,3,"₹8,999.00",15%,6500,UPI ,22947.45
+ORD-1041,2026-05-01,Ananya Joshi,Office Chair,Furniture,North,1,6499.00,0.00,"₹4,300.00",Cash,"₹6,499.00"
+ORD-1042,31/02/2026,Diya Verma,study desk,furniture,west,4, 7999 ,5,5200,card,30396.20
+ORD-1043,"May 07, 2026",Karan Malhotra,BOOKSHELF,FURNITURE,EAST,2,"₹4,999.00",10%,"₹3,150.00",UPI,"₹8,998.20"
+ORD-1044,10-05-2026,Vivaan Mehta, Notebook Pack ,Office Supplies , South ,5,299.00,0.15,135,Cash ,1270.75
+ORD-1045,2026-05-13,Rohan Gupta,Gel Pen Set,Office Supplies,North,3, 249 ,0,₹95.00,Card,₹747.00
+ORD-1046,16/05/2026,Aarav Sharma,a4 paper ream,office supplies,west,1,₹399.00,5%,230,upi,379.05
+ORD-1047,"May 19, 2026",Nisha Patel,LED DESK LAMP,HOME & OFFICE,EAST,4,1299.00,0.10,₹720.00,CASH,"₹4,676.40"
+ORD-1048,22-05-2026,Ishita Kapoor, Water Bottle ,Home & Office , South ,2, 699 ,15,310,Card ,1188.30
+ORD-1049,2026-05-25,Meera Iyer,Wireless Mouse,Electronics,North,5,₹799.00,0%,₹470.00,UPI,"₹3,995.00"
+ORD-1050,28/05/2026,Rahul Jain,bluetooth keyboard,electronics,west,-2,1499.00,0.05,900,cash,4272.15
+ORD-1051,"May 31, 2026",Aditya Rao,USB-C HUB,ELECTRONICS,EAST,1, 1899 ,10,"₹1,150.00",CARD,"₹1,709.10"
+ORD-1052,03-06-2026,Arjun Nair, 24 Inch Monitor ,Electronics , South ,4,"₹8,999.00",15%,6500,UPI ,30596.60
+ORD-1053,2026-06-06,Kabir Singh,Office Chair,Furniture,North,2,6499.00,0.00,"₹4,300.00",Cash,"₹12,998.00"
+ORD-1054,09/06/2026,,study desk,furniture,west,5, 7999 ,5,5200,card,37995.25
+ORD-1055,"Jun 12, 2026",Sara Khan,BOOKSHELF,FURNITURE,EAST,3,"₹4,999.00",10%,"₹3,150.00",UPI,"₹13,497.30"
+ORD-1056,15-06-2026,Ananya Joshi, Notebook Pack ,Office Supplies , South ,1,299.00,0.15,135,Cash ,254.15
+ORD-1057,2026-06-18,Diya Verma,Gel Pen Set,Office Supplies,North,4, 249 ,0,₹95.00,Card,₹996.00
+ORD-1058,21/06/2026,Karan Malhotra,a4 paper ream,office supplies,west,2,₹399.00,5%,230,upi,
+ORD-1059,"Jun 24, 2026",Vivaan Mehta,LED DESK LAMP,HOME & OFFICE,EAST,5,1299.00,0.10,₹720.00,CASH,"₹5,845.50"
+ORD-1060,27-06-2026,Rohan Gupta, Water Bottle ,Home & Office , South ,3, 699 ,15,310,Card ,1782.45
+ORD-1061,2026-01-01,Aarav Sharma,Wireless Mouse,Electronics,North,1,₹799.00,0%,₹470.00,UPI,₹799.00
+ORD-1062,04/01/2026,Nisha Patel,bluetooth keyboard,,west,4,1499.00,0.05,900,cash,5696.20
+ORD-1063,"Jan 07, 2026",Ishita Kapoor,USB-C HUB,ELECTRONICS,EAST,2, 1899 ,10,"₹1,150.00",CARD,"₹3,418.20"
+ORD-1064,10-01-2026,Meera Iyer, 24 Inch Monitor ,Electronics , South ,5,"₹8,999.00",15%,6500,UPI ,38245.75
+ORD-1065,2026-01-13,Rahul Jain,Office Chair,Furniture,North,3,6499.00,0.00,"₹4,300.00",Cash,"₹19,497.00"
+ORD-1066,16/01/2026,Aditya Rao,study desk,furniture,west,1, 7999 ,5,5200,card,7599.05
+ORD-1067,"Jan 19, 2026",Arjun Nair,BOOKSHELF,FURNITURE,EAST,4,N/A,10%,"₹3,150.00",UPI,"₹17,996.40"
+ORD-1068,22-01-2026,Kabir Singh, Notebook Pack ,Office Supplies , South ,2,299.00,0.15,135,Cash ,508.30
+ORD-1069,2026-01-25,Pooja Das,Gel Pen Set,Office Supplies,North,5, 249 ,0,₹95.00,Card,"₹1,245.00"
+ORD-1070,28/01/2026,Sara Khan,a4 paper ream,office supplies,west,3,₹399.00,5%,230,upi,1137.15
+ORD-1071,"Jan 31, 2026",Ananya Joshi,LED DESK LAMP,HOME & OFFICE,EAST,1,1299.00,0.10,₹720.00,CASH,"₹1,169.10"
+ORD-1072,03-02-2026,Diya Verma, Water Bottle ,Home & Office , South ,4, 699 ,15,310,Card ,2376.60
+ORD-1073,2026-02-06,Karan Malhotra,Wireless Mouse,Electronics,North,2,₹799.00,0%,₹470.00,UPI,"₹1,598.00"
+ORD-1074,09/02/2026,Vivaan Mehta,bluetooth keyboard,electronics,west,5,1499.00,0.05,900,cash,7120.25
+ORD-1075,"Feb 12, 2026",Rohan Gupta,USB-C HUB,ELECTRONICS,EAST,3, 1899 ,10,"₹1,150.00",CARD,"₹5,127.30"
+ORD-1076,15-02-2026,Aarav Sharma, 24 Inch Monitor ,Electronics , South ,1,"₹8,999.00",15%,6500,UPI ,7649.15
+ORD-1077,2026-02-18,Nisha Patel,Office Chair,Furniture,,4,6499.00,0.00,"₹4,300.00",Cash,"₹25,996.00"
+ORD-1078,21/02/2026,Ishita Kapoor,study desk,furniture,west,2, 7999 ,5,5200,card,15198.10
+ORD-1079,"Feb 24, 2026",Meera Iyer,BOOKSHELF,FURNITURE,EAST,5,"₹4,999.00",10%,"₹3,150.00",UPI,"₹22,495.50"
+ORD-1080,27-02-2026,Rahul Jain,,Office Supplies , South ,3,299.00,0.15,135,Cash ,762.45
+ORD-1081,2026-03-02,Aditya Rao,Gel Pen Set,Office Supplies,North,1, 249 ,0,₹95.00,Card,₹249.00
+ORD-1082,05/03/2026,Arjun Nair,a4 paper ream,office supplies,west,4,₹399.00,5%,230,upi,1516.20
+ORD-1083,"Mar 08, 2026",Kabir Singh,LED DESK LAMP,HOME & OFFICE,EAST,2,1299.00,0.10,₹720.00,CASH,"₹2,338.20"
+ORD-1084,11-03-2026,Pooja Das, Water Bottle ,Home & Office , South ,, 699 ,15,310,Card ,2970.75
+ORD-1085,2026-03-14,Sara Khan,Wireless Mouse,Electronics,North,3,₹799.00,0%,₹470.00,UPI,"₹2,397.00"
+ORD-1086,17/03/2026,Ananya Joshi,bluetooth keyboard,electronics,west,1,1499.00,0.05,900,cash,1424.05
+ORD-1087,"Mar 20, 2026",Diya Verma,USB-C HUB,ELECTRONICS,EAST,4, 1899 ,10,"₹1,150.00",CARD,"₹6,836.40"
+ORD-1088,23-03-2026,Karan Malhotra, 24 Inch Monitor ,Electronics , South ,2,"₹8,999.00",15%,6500,UPI ,15298.30
+ORD-1089,2026-03-26,,Office Chair,Furniture,North,5,6499.00,0.00,"₹4,300.00",Cash,"₹32,495.00"
+ORD-1090,29/03/2026,Rohan Gupta,study desk,furniture,west,3, 7999 ,5,5200,card,22797.15
+ORD-1091,"Apr 01, 2026",Aarav Sharma,BOOKSHELF,FURNITURE,EAST,1,"₹4,999.00",10%,"₹3,150.00",UPI,"₹4,499.10"
+ORD-1092,04-04-2026,Nisha Patel, Notebook Pack ,Office Supplies , South ,4,299.00,0.15,135,Cash ,1016.60
+ORD-1093,2026-04-07,Ishita Kapoor,Gel Pen Set,Office Supplies,North,2, 249 ,0,,Card,₹498.00
+ORD-1094,10/04/2026,Meera Iyer,a4 paper ream,office supplies,west,5,₹399.00,5%,230,upi,1895.25
+ORD-1095,"Apr 13, 2026",Rahul Jain,LED DESK LAMP,HOME & OFFICE,EAST,3,1299.00,0.10,₹720.00,CASH,"₹3,507.30"
+ORD-1096,16-04-2026,Aditya Rao, Water Bottle ,, South ,1, 699 ,15,310,Card ,594.15
+ORD-1097,2026-04-19,Arjun Nair,Wireless Mouse,Electronics,North,4,₹799.00,0%,₹470.00,UPI,"₹3,196.00"
+ORD-1098,22/04/2026,Kabir Singh,bluetooth keyboard,electronics,west,2,1499.00,0.05,900,cash,2848.10
+ORD-1099,,Pooja Das,USB-C HUB,ELECTRONICS,EAST,5, 1899 ,10,"₹1,150.00",CARD,"₹8,545.50"
+ORD-1100,28-04-2026,Sara Khan, 24 Inch Monitor ,Electronics , South ,3,"₹8,999.00",15%,6500,UPI ,22947.45
+ORD-1101,2026-05-01,Ananya Joshi,Office Chair,Furniture,North,1,6499.00,0.00,"₹4,300.00",Cash,"₹6,499.00"
+ORD-1102,04/05/2026,Diya Verma,study desk,furniture,west,4,-499,5,5200,card,30396.20
+ORD-1103,"May 07, 2026",Karan Malhotra,BOOKSHELF,FURNITURE,EAST,2,"₹4,999.00",10%,"₹3,150.00",UPI,"₹8,998.20"
+ORD-1104,10-05-2026,Vivaan Mehta, Notebook Pack ,Office Supplies ,,5,299.00,0.15,135,Cash ,1270.75
+ORD-1105,2026-05-13,Rohan Gupta,Gel Pen Set,Office Supplies,North,3, 249 ,0,₹95.00,Card,₹747.00
+ORD-1106,16/05/2026,Aarav Sharma,a4 paper ream,office supplies,west,1,₹399.00,5%,230,upi,379.05
+ORD-1107,"May 19, 2026",Nisha Patel,LED DESK LAMP,HOME & OFFICE,EAST,4,1299.00,0.10,₹720.00,CASH,"₹4,676.40"
+ORD-1108,22-05-2026,Ishita Kapoor, Water Bottle ,Home & Office , South ,2, 699 ,15,310,Card ,1188.30
+ORD-1109,2026-05-25,Meera Iyer,Wireless Mouse,Electronics,North,5,₹799.00,0%,₹470.00,UPI,"₹3,995.00"
+ORD-1110,28/05/2026,Rahul Jain,bluetooth keyboard,electronics,west,two,1499.00,0.05,900,cash,4272.15
+ORD-1111,"May 31, 2026",Aditya Rao,USB-C HUB,ELECTRONICS,EAST,1, 1899 ,10,"₹1,150.00",CARD,"₹1,709.10"
+ORD-1112,03-06-2026,Arjun Nair, 24 Inch Monitor ,Electronics , South ,4,"₹8,999.00",15%,6500,UPI ,30596.60
+ORD-1113,2026-06-06,Kabir Singh,Office Chair,Furniture,North,2,6499.00,0.00,"₹4,300.00",Cash,
+ORD-1114,09/06/2026,Pooja Das,study desk,furniture,west,5, 7999 ,5,5200,card,37995.25
+ORD-1115,"Jun 12, 2026",Sara Khan,BOOKSHELF,FURNITURE,EAST,3,"₹4,999.00",10%,"₹3,150.00",UPI,"₹13,497.30"
+ORD-1116,15-06-2026,Ananya Joshi, Notebook Pack ,Office Supplies , South ,1,299.00,0.15,135,Cash ,254.15
+ORD-1117,2026-06-18,Diya Verma,Gel Pen Set,Office Supplies,North,4, 249 ,0,₹95.00,Card,₹996.00
+ORD-1118,21/06/2026,Karan Malhotra,a4 paper ream,office supplies,,2,₹399.00,5%,230,upi,758.10
+ORD-1119,"Jun 24, 2026",Vivaan Mehta,LED DESK LAMP,HOME & OFFICE,EAST,5,1299.00,0.10,₹720.00,CASH,"₹5,845.50"
+ORD-1120,27-06-2026,Rohan Gupta, Water Bottle ,Home & Office , South ,3, 699 ,15,310,Card ,1782.45
+ORD-1004,10-01-2026,Meera Iyer, 24 Inch Monitor ,Electronics , South ,5,"₹8,999.00",15%,6500,UPI ,38245.75
+ORD-1019,"Feb 24, 2026",Meera Iyer,BOOKSHELF,FURNITURE,EAST,5,"₹4,999.00",10%,"₹3,150.00",UPI,"₹22,495.50"
+ORD-1038,22/04/2026,Kabir Singh,bluetooth keyboard,electronics,west,2,1499.00,0.05,900,cash,2848.10
+ORD-1059,"Jun 24, 2026",Vivaan Mehta,LED DESK LAMP,HOME & OFFICE,EAST,5,1299.00,0.10,₹720.00,CASH,"₹5,845.50"
+ORD-1073,2026-02-06,Karan Malhotra,Wireless Mouse,Electronics,North,2,₹799.00,0%,₹470.00,UPI,"₹1,598.00"
+ORD-1112,03-06-2026,Arjun Nair, 24 Inch Monitor ,Electronics , South ,4,"₹8,999.00",15%,6500,UPI ,30596.60
