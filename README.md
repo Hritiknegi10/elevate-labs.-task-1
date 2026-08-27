@@ -73,3 +73,15 @@ Python (Pandas)
 5.Critical missing values remaining: 0
 
 6.Output file: cleaned_sales_data.csv
+
+#Deliverables
+
+1.Cleaned dataset
+
+2.Short summary of changes
+
+3.Reproducible Pandas cleaning notebook/script
+
+4.Interview preparation answers
+
+5.Excel copy of raw data, cleaned data, and cleaning summary
